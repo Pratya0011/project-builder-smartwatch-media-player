@@ -86,7 +86,7 @@ h1{
 }
 .container3{
     position:absolute;
-    display: flex;
+    display: none;
     height: 200px;
     width: 180px;
     background-color: black;
