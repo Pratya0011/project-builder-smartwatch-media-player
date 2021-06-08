@@ -58,7 +58,7 @@ function displayCss(){
     }else{
         para.style.display = 'none'
     }
-}
+}s
 
 function displayMedia(){
     var media = document.querySelector(".container3")
